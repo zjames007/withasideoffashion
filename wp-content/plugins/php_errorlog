@@ -1,0 +1,24 @@
+[08-Nov-2018 23:06:32 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/withasid/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/plugins/hello.php on line 60
+[05-Jan-2019 12:06:51 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/withasid/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/plugins/hello.php on line 60
+[30-Jan-2019 20:16:04 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/withasid/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/plugins/hello.php on line 60
+[09-Apr-2019 04:06:26 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/withasid/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/plugins/hello.php on line 60
+[09-Apr-2019 04:06:45 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/withasid/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/plugins/hello.php on line 60
+[09-Apr-2019 04:06:53 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/withasid/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/plugins/hello.php on line 60

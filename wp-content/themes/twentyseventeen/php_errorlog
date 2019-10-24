@@ -1,0 +1,296 @@
+[12-Jun-2018 03:49:39 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[20-Oct-2018 05:28:04 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/front-page.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/front-page.php on line 15
+[20-Oct-2018 06:19:59 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/front-page.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/front-page.php on line 15
+[20-Oct-2018 08:05:27 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/index.php on line 18
+[20-Oct-2018 08:26:56 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/index.php on line 18
+[20-Oct-2018 11:44:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/withasid/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[20-Oct-2018 12:24:58 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/withasid/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[20-Oct-2018 13:22:54 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/withasid/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[20-Oct-2018 14:09:23 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/withasid/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[20-Oct-2018 14:58:46 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/archive.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/archive.php on line 13
+[20-Oct-2018 15:49:27 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/archive.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/archive.php on line 13
+[20-Oct-2018 16:42:22 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/withasid/public_html/wp-content/themes/twentyseventeen/searchform.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/searchform.php on line 13
+[20-Oct-2018 17:30:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/withasid/public_html/wp-content/themes/twentyseventeen/searchform.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/searchform.php on line 13
+[20-Oct-2018 18:22:32 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/single.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/single.php on line 13
+[20-Oct-2018 19:12:23 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/single.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/single.php on line 13
+[20-Oct-2018 20:02:53 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/withasid/public_html/wp-content/themes/twentyseventeen/header.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/header.php on line 16
+[20-Oct-2018 20:54:17 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/withasid/public_html/wp-content/themes/twentyseventeen/header.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/header.php on line 16
+[21-Oct-2018 12:07:28 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[21-Oct-2018 12:50:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[24-Oct-2018 04:54:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/withasid/public_html/wp-content/themes/twentyseventeen/header.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/header.php on line 16
+[24-Oct-2018 05:44:07 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/withasid/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[24-Oct-2018 05:57:52 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/withasid/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[24-Oct-2018 06:25:42 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/withasid/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[24-Oct-2018 06:52:47 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/index.php on line 18
+[24-Oct-2018 06:55:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/withasid/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[24-Oct-2018 06:57:31 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[24-Oct-2018 07:04:50 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/archive.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/archive.php on line 13
+[24-Oct-2018 07:05:47 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/front-page.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/front-page.php on line 15
+[24-Oct-2018 07:07:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[24-Oct-2018 07:15:49 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/withasid/public_html/wp-content/themes/twentyseventeen/searchform.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/searchform.php on line 13
+[24-Oct-2018 07:24:10 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/front-page.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/front-page.php on line 15
+[24-Oct-2018 07:28:13 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/index.php on line 18
+[24-Oct-2018 07:30:38 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/archive.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/archive.php on line 13
+[24-Oct-2018 07:40:16 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/single.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/single.php on line 13
+[24-Oct-2018 07:47:02 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/withasid/public_html/wp-content/themes/twentyseventeen/searchform.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/searchform.php on line 13
+[24-Oct-2018 07:48:30 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/single.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/single.php on line 13
+[28-Oct-2018 22:10:44 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/page.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/page.php on line 18
+[29-Oct-2018 13:40:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/page.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/page.php on line 18
+[31-Oct-2018 15:28:10 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/withasid/public_html/wp-content/themes/twentyseventeen/sidebar.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/sidebar.php on line 13
+[01-Nov-2018 08:09:16 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/withasid/public_html/wp-content/themes/twentyseventeen/sidebar.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/sidebar.php on line 13
+[01-Nov-2018 15:08:29 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/search.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/search.php on line 13
+[02-Nov-2018 07:31:49 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/search.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/search.php on line 13
+[02-Nov-2018 14:55:34 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function post_password_required() in /home/withasid/public_html/wp-content/themes/twentyseventeen/comments.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/comments.php on line 21
+[03-Nov-2018 09:44:02 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function post_password_required() in /home/withasid/public_html/wp-content/themes/twentyseventeen/comments.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/comments.php on line 21
+[16-Nov-2018 01:18:32 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/page.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/page.php on line 18
+[16-Nov-2018 01:57:50 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/page.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/page.php on line 18
+[06-May-2019 10:32:39 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[09-May-2019 13:48:03 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/withasid/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[10-May-2019 02:13:03 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[12-May-2019 16:03:14 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[19-May-2019 01:54:46 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/withasid/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[02-Jun-2019 14:29:47 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/withasid/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[02-Jun-2019 21:56:49 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[06-Jun-2019 05:14:30 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[11-Jun-2019 14:50:45 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/withasid/public_html/wp-content/themes/twentyseventeen/sidebar.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/sidebar.php on line 13
+[11-Jun-2019 15:22:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/withasid/public_html/wp-content/themes/twentyseventeen/sidebar.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/sidebar.php on line 13
+[11-Jun-2019 15:28:17 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/search.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/search.php on line 13
+[11-Jun-2019 15:31:54 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/search.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/search.php on line 13
+[13-Jun-2019 06:25:04 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function post_password_required() in /home/withasid/public_html/wp-content/themes/twentyseventeen/comments.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/comments.php on line 21
+[13-Jun-2019 06:58:50 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function post_password_required() in /home/withasid/public_html/wp-content/themes/twentyseventeen/comments.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/comments.php on line 21
+[15-Jun-2019 01:55:31 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/withasid/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[01-Jul-2019 12:52:06 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/withasid/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[05-Jul-2019 22:06:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[14-Jul-2019 10:24:59 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[14-Jul-2019 10:26:06 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[17-Jul-2019 20:50:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/withasid/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[17-Jul-2019 20:50:59 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/withasid/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[18-Jul-2019 10:37:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[18-Jul-2019 10:38:54 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[21-Jul-2019 13:08:36 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[21-Jul-2019 13:09:25 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[06-Aug-2019 02:02:54 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/withasid/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[06-Aug-2019 02:03:55 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/withasid/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[22-Oct-2019 21:05:50 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyseventeen/404.php on line 13

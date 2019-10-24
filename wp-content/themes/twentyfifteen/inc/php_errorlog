@@ -1,0 +1,52 @@
+[25-Oct-2018 20:40:01 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/withasid/public_html/wp-content/themes/twentyfifteen/inc/back-compat.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyfifteen/inc/back-compat.php on line 26
+[25-Oct-2018 23:36:04 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/withasid/public_html/wp-content/themes/twentyfifteen/inc/back-compat.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyfifteen/inc/back-compat.php on line 26
+[26-Oct-2018 01:14:50 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/withasid/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[26-Oct-2018 03:29:29 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/withasid/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[26-Oct-2018 04:51:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/withasid/public_html/wp-content/themes/twentyfifteen/inc/customizer.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyfifteen/inc/customizer.php on line 83
+[26-Oct-2018 05:04:42 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/withasid/public_html/wp-content/themes/twentyfifteen/inc/back-compat.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyfifteen/inc/back-compat.php on line 26
+[26-Oct-2018 08:28:07 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/withasid/public_html/wp-content/themes/twentyfifteen/inc/customizer.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyfifteen/inc/customizer.php on line 83
+[26-Oct-2018 09:41:15 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/withasid/public_html/wp-content/themes/twentyfifteen/inc/template-tags.php:171
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyfifteen/inc/template-tags.php on line 171
+[26-Oct-2018 15:00:51 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/withasid/public_html/wp-content/themes/twentyfifteen/inc/template-tags.php:171
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyfifteen/inc/template-tags.php on line 171
+[09-Nov-2018 04:58:24 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/withasid/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[09-Nov-2018 05:14:28 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/withasid/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[09-Nov-2018 07:32:17 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/withasid/public_html/wp-content/themes/twentyfifteen/inc/template-tags.php:171
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyfifteen/inc/template-tags.php on line 171
+[09-Nov-2018 08:29:02 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/withasid/public_html/wp-content/themes/twentyfifteen/inc/template-tags.php:171
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/twentyfifteen/inc/template-tags.php on line 171

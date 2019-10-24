@@ -1,0 +1,4 @@
+[06-May-2018 13:54:47 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/withasid/public_html/wp-content/themes/Builder-Madison/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/withasid/public_html/wp-content/themes/Builder-Madison/404.php on line 8
