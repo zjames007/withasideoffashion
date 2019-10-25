@@ -1,0 +1,70 @@
+# WordPress #
+############
+wp-config-local.php
+wp-cli.local.yml
+wp-content/uploads
+wp-content/blogs.dir/
+wp-content/upgrade/
+wp-content/backup-db/
+wp-content/updraft/
+wp-content/backupwordpress-*/
+wp-content/managewp/backups/
+wp-content/advanced-cache.php
+wp-content/wp-cache-config.php
+wp-config.php
+*.log
+
+# @TODO writable paths
+wp-content/cache/
+wp-content/backups/
+
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.bz2
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.tgz
+.htaccess
+
+# Logs and databases #
+######################
+*.log
+*.sql
+
+# OS generated files #
+######################
+*/.DS_Store
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+._*
+.vscode/
+
+# Vim generated files #
+######################
+*.un~
+
+# SASS #
+##########
+.sass-cache
+htdocs
+wp_config.php
+node_modules
+package-lock.json
+node_modules/
+wp-rocket-config/
+wp-content/themes/uncode-child/assets/javascript/*
+wp-content/themes/uncode-child/assets/css/*
+wp-content/themes/uncode-child/assets/stylesheets/app.css
+wp-content/themes/praxent/assets/javascript/app.js
+wp-content/themes/praxent/assets/stylesheets/app.css.map
+wp-content/themes/praxent/assets/stylesheets/app.css
+wp-content/themes/praxent/.env
